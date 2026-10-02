@@ -1,0 +1,6 @@
+{
+  "name": "Real-Time Messaging Platform",
+  "description": "Production-scale real-time messaging platform with WebSockets, robust messaging, and modern interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
